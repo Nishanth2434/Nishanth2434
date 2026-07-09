@@ -1,5 +1,5 @@
 # 💫 About Me:
-                                                          A passionate developer from India
+  ##A passionate developer from India
 Hi 👋, I'm Nishanth B<br><br>🎓 I'm Nishanth B, a 3rd-year Computer Science and Engineering student at PES College of Engineering, Mandya. I'm passionate about web development and enjoy creating responsive and user-friendly websites. I'm always eager to learn new technologies and improve my programming skills.
 
     
