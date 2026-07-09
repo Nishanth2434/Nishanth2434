@@ -1,6 +1,9 @@
 # 💫 About Me
 
-<h2 align="center">A Passionate Developer from India 🇮🇳</h2>
+<h2 align="center">
+  A Passionate Developer from India
+  <img src="https://flagcdn.com/w40/in.png" width="25" alt="India Flag">
+</h2>
 
 <p align="center">
 Hi 👋, I'm <b>Nishanth B</b>, a 3rd-year Computer Science and Engineering student at PES College of Engineering, Mandya.
