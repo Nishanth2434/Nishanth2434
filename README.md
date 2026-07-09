@@ -1,7 +1,18 @@
-# 💫 About Me:
-##                                                   passionate developer from India:
-<br>Hi 👋, I'm Nishanth B I'm Nishanth B, a 3rd-year Computer Science and Engineering student at PES College of Engineering, Mandya. I'm passionate about web development and enjoy creating responsive and user-friendly websites. I'm always eager to learn new technologies and improve my programming skills.<br><br>    <br>- • Check out my portfolio here - My portfolio<br>- • Check out my resume here - My Resume<br>- • All of my projects are available on GitHub<br>- 💬 Ask me about Programming, Flutter Development,Wev Development<br>- 📫 Reach out to me at nishanthbnishu24@gmail.com
+# 💫 About Me
 
+<h2 align="center">A Passionate Developer from India 🇮🇳</h2>
+
+<p align="center">
+Hi 👋, I'm <b>Nishanth B</b>, a 3rd-year Computer Science and Engineering student at PES College of Engineering, Mandya.
+I'm passionate about web development and enjoy creating responsive and user-friendly websites.
+I'm always eager to learn new technologies and improve my programming skills.
+</p>
+
+- 🌐 Check out my portfolio here - **My Portfolio**
+- 📄 Check out my resume here - **My Resume**
+- 💻 All of my projects are available on GitHub
+- 💬 Ask me about Programming, Web Development, and Flutter Development
+- 📫 Reach me at **nishanthbnishu24@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishanth-b-24b2006abc) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishanthbnishu24@gmail.com) 
