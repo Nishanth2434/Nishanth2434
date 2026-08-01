@@ -12,7 +12,7 @@ I'm always eager to learn new technologies and improve my programming skills.
 </p>
 
 - 🌐 Check out my portfolio here - **My Portfolio**
-- - 📄 Resume: **[View My Resume](https://github.com/Nishanth2434/Nishanth2434/raw/main/Nishanth_B_Resume.pdf)**
+- 📄 Resume: **[View My Resume](https://github.com/Nishanth2434/Nishanth2434/raw/main/Nishanth_B_Resume.pdf)**
 - 💻 All of my projects are available on GitHub
 - 💬 Ask me about Programming, Web Development, and Flutter Development
 - 📫 Reach me at **nishanthbnishu24@gmail.com**
